@@ -1,5 +1,7 @@
 # El--final master program
 
+http://sulezhi.com/el.html
+
 The demonstration day is the graduation exhibition.
 Timestamp on the right controls the height of El, to show people how daily accumulated power consumption is reflected on El.
 
